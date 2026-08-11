@@ -1,0 +1,11 @@
+apiVersion: v2
+
+name: patient-management-service
+
+description: Helm chart for Patient Management Service
+
+type: application
+
+version: 0.1.0
+
+appVersion: "1.0.1"
